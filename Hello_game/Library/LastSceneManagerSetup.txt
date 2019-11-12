@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/kitchen_apple.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/kitchen_strawberry.unity
+  isLoaded: 1
+  isActive: 1
